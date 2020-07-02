@@ -1,7 +1,7 @@
 # gRPC & redis
 
 ## Görev
-Size verilen json dosyalarındaki ( users dizininde bulubilirsiniz ) user bilgilerini gRPC kullanarak redis e kaydetmeniz gerekli.
+Size verilen json dosyalarındaki ( users dizininde bulabilirsiniz ) user bilgilerini gRPC kullanarak redis e kaydetmeniz gerekli.
 
 ## Beklenen
 gRPC server ve sunucu için iki ayrı ve redis için ayrı bir docker container ile çalışılması gerekli.
