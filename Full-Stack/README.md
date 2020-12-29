@@ -24,3 +24,7 @@ Konu hakkında sorularınız için, sonuç bölümünde bulunan e-posta adresine
 ## Sonuç
 Bu görev için hazırladığınız projeyi tek repoda Github, Bitbucket veya Gitlab üzerinde public olarak yayınlayıp bize mustafa.akseli ( at} swordsec noktacom adresim üzerinden ulaştırabilirsiniz.
 Projenizi indirdikten sonra çalıştırabilmemiz için gerekli adımları açıklamanız önemli. İngilizce veya Türkçe Readme dosyası ile paylaşabilirsiniz.
+
+
+## Not
+5. ve 6. ve maddelerden sadece bir tanesini yapmanız yeterli. Her ikisini yapmak tercih sebebidir. Görev bölümünde ifade edilen işlemler için "README" veya "Nasıl Kullanılır" metni yazmalısınız ve o metinde bulunan adımları takip ettiğimizde hata (ufak-tefek olabilir) ile karşılaşmadan çalışmalı.
