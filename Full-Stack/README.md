@@ -16,7 +16,9 @@
 * Ay ve yıl fiyat değişimi bir buton yardımıyla yapılmalı. Üzerine gelinen fiyatlama kutusunun background u değişmeli. Örnek ( www.podpage.com/pricing & surferseo.com/pricing )
 
 ## Beklenen
-Görev bölümünde ifade edilen işlemler için "README" veya "Nasıl Kullanılır" metni yazmalısınız ve o metinde bulunan adımları takip ettiğimizde hata (ufak-tefek olabilir) ile karşılaşmadan çalışmalı.   
+* Vue JS ile arayüzü çalışabilirsiniz. Html taraf için hazır template kullanabilirsiniz veya kendi html/css inizi de oluşturabilirsiniz.
+* 5 ve 6. maddelerden sadece bir tanesini yapmanız yeterli. Her ikisini yapmak tercih sebebidir.
+* Görev bölümünde ifade edilen işlemler için "README" veya "Nasıl Kullanılır" metni yazmalısınız ve o metinde bulunan adımları takip ettiğimizde hata (ufak-tefek olabilir) ile karşılaşmadan çalışmalı.   
 
 ## Bilgi 
 Konu hakkında sorularınız için, sonuç bölümünde bulunan e-posta adresine yazabilirsiniz.  
@@ -27,4 +29,3 @@ Projenizi indirdikten sonra çalıştırabilmemiz için gerekli adımları açı
 
 
 ## Not
-5. ve 6. ve maddelerden sadece bir tanesini yapmanız yeterli. Her ikisini yapmak tercih sebebidir. Görev bölümünde ifade edilen işlemler için "README" veya "Nasıl Kullanılır" metni yazmalısınız ve o metinde bulunan adımları takip ettiğimizde hata (ufak-tefek olabilir) ile karşılaşmadan çalışmalı.
